@@ -6,7 +6,7 @@ This project demonstrates data ingestion using batch processing and real-time st
 
 ## Architecture
 
-![Blank diagram](https://github.com/user-attachments/assets/cf345ddf-bd97-4dd4-9656-ea32d9cd0490)
+![Blank diagram](https://github.com/user-attachments/assets/0357800b-c226-4573-9d25-aa366e10ada3)
 
 
 ### Batch Streaming
